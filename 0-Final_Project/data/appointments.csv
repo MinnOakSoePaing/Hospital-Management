@@ -1,0 +1,3 @@
+AppID,PatientID,DoctorID,Date,Time,Reason
+A001,patient1,dr.john,2025-04-10,10:00,Chest Pain
+A002,patient2,dr.mary,2025-04-11,14:00,Skin Rash
