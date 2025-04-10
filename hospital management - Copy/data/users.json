@@ -1,0 +1,5 @@
+{
+    "a": { "password": "admin123", "role": "admin" },
+    "dr": { "password": "doc123", "role": "doctor" },
+    "patient1": { "password": "pat123", "role": "patient" }
+}
